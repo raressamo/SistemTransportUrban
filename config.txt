@@ -1,0 +1,4 @@
+pret_diesel=7.50
+pret_cng=4.20
+pret_kwh=0.85
+tarif_metrou_statie=0.50
